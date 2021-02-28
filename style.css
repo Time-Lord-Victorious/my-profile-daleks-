@@ -1,0 +1,43 @@
+.nav-link, .navbar-brand{
+    color: azure !important;
+}
+.rounded-circle{
+    width: 150px;
+    height: 150px;
+}
+.namefont{
+    font-family: cursive;
+}
+.slogan{
+    font-family: fantasy;
+}
+.container-bg-yellow{
+    background-color: darkkhaki;
+}
+.address{
+    font-family: 'Courier New', Courier, monospace;
+}
+.addresstxt{
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.contactxt{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#footer{
+    background-color: darkturquoise;
+}
+.card-title{
+    font-family: 'Courier New', Courier, monospace;
+}
+.card-subtitle{
+    font-family: cursive;
+}
+.abtme{
+    font-family: 'Times New Roman', Times, serif;
+}
+.intro{
+    font-family: cursive;
+}
